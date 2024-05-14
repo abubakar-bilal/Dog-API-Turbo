@@ -69,3 +69,5 @@ end
 gem "tailwindcss-rails", "~> 2.6"
 gem 'httparty'
 gem 'byebug'
+gem 'webmock'
+gem 'rails-controller-testing'
